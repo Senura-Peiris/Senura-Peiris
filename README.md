@@ -1,4 +1,4 @@
-## Hi there I am Senura Nethsara Peiris. I am a Frontend Developer. 👋
+## Hi there I am M.P.Senura Nethsara Peiris. I am Software Engineering Undergraduate Student at Saegis Campus ,Nugegoda 👋
 
 <!--
 **Senura-Peiris/Senura-Peiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
