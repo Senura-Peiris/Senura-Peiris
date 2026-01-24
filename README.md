@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I really enjoy music.
 -->
 
-# Founder of M & S TechVerse Pvt(Ltd) Company. 
+# Co-Founder & CEO at M&S TechVerse Pvt(Ltd) Company. 
 
 ![image alt]()
