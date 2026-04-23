@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I really enjoy music.
 -->
 
-# Co-Founder & CEO at M&S TechVerse Pvt(Ltd) Company. 
+### Co-Founder & CEO at M&S TechVerse Pvt(Ltd) Company. 
 <img src="https://github.com/Senura-Peiris/Senura-Peiris/blob/main/ChatGPT%20Image%20Jan%2024%2C%202026%2C%2011_39_43%20AM.png" alt="SM TechVerse Image" width="100%" height="50%"/>
+
+This is my Company Website Link: 
 
