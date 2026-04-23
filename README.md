@@ -34,13 +34,38 @@ I am currently seeking a **Junior Web Developer / Frontend Developer opportunity
 
 ### 📄 Internship – Techwox Solutions
 
-I did my Software Engineering Degree Programme internship at **Techwox Solutions** and the position is **Front-end Developer** for a period of **6 months**, starting from **07/04/2025 to 07/10/2025**.  
+<table>
+  <tr>
+
+    <!-- LEFT SIDE TEXT -->
+    <td width="70%" valign="top">
+
+### 📄 Internship – Techwox Solutions
+
+I did my Software Engineering Degree Programme internship at **Techwox Solutions** as a **Front-end Developer** for a period of **6 months**, starting from **07/04/2025 to 07/10/2025**.  
 This is an **unpaid internship**.
+
 📎 View Agreement Document:  
 [Click here to view my internship agreement](https://github.com/Senura-Peiris/Senura-Peiris/blob/main/senura.pdf)
 
-I successfully Completed my internship on 07.10.2025
+---
+
+I successfully completed my internship on **07/10/2025**.
+
+📎 View Service Letter:  
 [Click here to view my internship Service Letter](https://github.com/Senura-Peiris/Senura-Peiris/blob/main/Techwox%20Solutions%20Service%20Letter.pdf)
+
+    </td>
+
+    <!-- RIGHT SIDE LOGO -->
+    <td width="30%" align="center" valign="top">
+
+<img src="YOUR_LOGO_URL_OR_PATH_HERE" width="200" />
+
+    </td>
+
+  </tr>
+</table>
 
 
 
