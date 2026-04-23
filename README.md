@@ -3,8 +3,9 @@
 -   **Email Address:** senurapieris@gmail.com  
 -   **Mobile Number:** 0723669299  
 -   **WhatsApp:** 0719907227  
--   **LinkedIn:** 
--   **Web Portfolio:** 
+-   [LinkedIn](https://www.linkedin.com/in/senura-peiris-498973262/)
+-   [Web Portfolio]()
+---
 I am currently seeking a **Junior Web Developer / Frontend Developer opportunity** where I can contribute my skills, gain real-world experience, and continue growing as a software engineer in a professional environment.
 ---
 ## 🎓 BSc (Hons) Software Engineering
