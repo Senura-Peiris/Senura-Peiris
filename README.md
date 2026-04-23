@@ -60,7 +60,7 @@ I successfully completed my internship on **07/10/2025**.
     <!-- RIGHT SIDE LOGO -->
     <td width="30%" align="center" valign="top">
 
-<img src="YOUR_LOGO_URL_OR_PATH_HERE" width="200" />
+<img src="https://github.com/Senura-Peiris/Senura-Peiris/blob/main/techwoxsolutionslogo.png" width="300" />
 
     </td>
 
