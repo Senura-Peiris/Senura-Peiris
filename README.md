@@ -32,6 +32,8 @@ I am currently seeking a Junior Web Developer / Frontend Developer opportunity w
 
 I did my Software Engineering Degree Programme internship at **Techwox Solutions** as a **Front-end Developer** for a period of **6 months**, starting from **07/04/2025 to 07/10/2025**.  
 This is an **unpaid internship**.
+**1.2** The Intern will work under the supervision of **Thabitha Joseph** and be responsible for assisting with the development, maintenance, and improvement of assigned **game development / web development tasks** given by the Company.
+
 
 📎 View Agreement Document:  
 [Click here to view my internship agreement](https://github.com/Senura-Peiris/Senura-Peiris/blob/main/senura.pdf)
@@ -46,41 +48,11 @@ I successfully completed my internship on **07/10/2025**.
 
 
 
----
-
-**1.2** The Intern will work under the supervision of **Thabitha Joseph** and be responsible for assisting with the development, maintenance, and improvement of assigned **game development / web development tasks** given by the Company.
-
-**1.3** The Intern agrees to perform all duties diligently, professionally, and to the best of their abilities.
-
-    </td>
-
-    <!-- RIGHT SIDE IMAGE -->
-    <td width="30%" align="center" valign="top">
-
-<img src="YOUR_LOGO_URL_OR_PATH_HERE" width="200" />
-
-    </td>
-
-  </tr>
-</table>
-
-This is my Web Portfolio Link :  
-<!--
-**Senura-Peiris/Senura-Peiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working at Techwox Solutions(Pvt)Ltd Negombo
-- 🌱 I’m currently learning version control on Future Learn Website and wordpress on Simplilearn website
-- 👯 I’m looking to collaborate on many projects.
-- 💬 Ask me about my projects/ contact me for projects
-- 📫 How to reach me: my email : senurapieris@gmail.com or my number: 0723669299
-- 😄 Pronouns: Senura
-- ⚡ Fun fact: I really enjoy music.
--->
 
 ### Co-Founder & CEO at M&S TechVerse Pvt(Ltd) Company. 
-<img src="https://github.com/Senura-Peiris/Senura-Peiris/blob/main/ChatGPT%20Image%20Jan%2024%2C%202026%2C%2011_39_43%20AM.png" alt="SM TechVerse Image" width="100%" height="50%"/>
+<img src="https://github.com/Senura-Peiris/Senura-Peiris/blob/main/ChatGPT%20Image%20Jan%2024%2C%202026%2C%2011_39_43%20AM.png" alt="SM TechVerse Image" width="100%" height="40%"/>
 
 This is my Company Website Link: 
+This still not registered company.It is my vision.
+I started this idea in this year 2026.
 
