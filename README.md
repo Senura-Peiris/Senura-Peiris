@@ -1,5 +1,16 @@
 ## 👋Hi I'm  
 # M.P.Senura Nethsara Peiris. 
+---
+
+### Personal Details
+
+- 📧 **Email Address:** senurapieris@gmail.com  
+- 📱 **Mobile Number:** 0723669299  
+- 💬 **WhatsApp:** 0719907227  
+- 🔗 **LinkedIn:** 
+-   **Web Portfolio:** 
+
+---
 I am a 4th-year Software Engineering undergraduate student at Saegis Campus, Nugegoda, with a strong passion for building modern, responsive, and user-friendly web applications.
 
 I specialize in frontend development and web development, with hands-on experience in technologies such as React and modern UI frameworks.
