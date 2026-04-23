@@ -31,14 +31,9 @@ I specialize in **frontend development and web development**, with hands-on expe
 I am currently seeking a **Junior Web Developer / Frontend Developer opportunity** where I can contribute my skills, gain real-world experience, and continue growing as a software engineer in a professional environment.
 
 ---
-
-### 📄 Internship – Techwox Solutions
-
 <table>
   <tr>
-
-  
-
+    
 ### 📄 Internship – Techwox Solutions
 
 I did my Software Engineering Degree Programme internship at **Techwox Solutions** as a **Front-end Developer** for a period of **6 months**, starting from **07/04/2025 to 07/10/2025**.  
