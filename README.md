@@ -37,8 +37,7 @@ I am currently seeking a **Junior Web Developer / Frontend Developer opportunity
 <table>
   <tr>
 
-    <!-- LEFT SIDE TEXT -->
-    <td width="70%" valign="top">
+  
 
 ### 📄 Internship – Techwox Solutions
 
