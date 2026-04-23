@@ -38,7 +38,7 @@ I am currently seeking a **Junior Web Developer / Frontend Developer opportunity
 This is an **unpaid internship**.
 
 📎 View Agreement Document:  
-[Click here to view my internship agreement](YOUR_LINK_HERE)
+[Click here to view my internship agreement](https://github.com/Senura-Peiris/Senura-Peiris/blob/main/senura.pdf)
 
 ---
 
