@@ -22,8 +22,6 @@ I am currently seeking a Junior Web Developer / Frontend Developer opportunity w
   <!-- LEFT SIDE TEXT -->
  <table>
   <tr>
-
-    <!-- LEFT SIDE TEXT -->
     <td width="70%" valign="top">
 
 I am a **4th-year Software Engineering undergraduate student at Saegis Campus, Nugegoda**, with a strong passion for building modern, responsive, and user-friendly web applications.
