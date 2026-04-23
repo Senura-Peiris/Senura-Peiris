@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 # Co-Founder & CEO at M&S TechVerse Pvt(Ltd) Company. 
 
-![image alt]()
+![image alt]('https://github.com/Senura-Peiris/Senura-Peiris/blob/main/ChatGPT%20Image%20Jan%2024%2C%202026%2C%2011_39_43%20AM.png')
