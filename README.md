@@ -1,17 +1,21 @@
 ## 👋Hi I'm  
 # M.P.Senura Nethsara Peiris. 
----
-
-### Personal Details
-
-- 📧 **Email Address:** senurapieris@gmail.com  
-- 📱 **Mobile Number:** 0723669299  
-- 💬 **WhatsApp:** 0719907227  
-- 🔗 **LinkedIn:** 
+-   **Email Address:** senurapieris@gmail.com  
+-   **Mobile Number:** 0723669299  
+-   **WhatsApp:** 0719907227  
+-   **LinkedIn:** 
 -   **Web Portfolio:** 
 
 ---
+## 🎓 BSc (Hons) Software Engineering
+
 I am a 4th-year Software Engineering undergraduate student at Saegis Campus, Nugegoda, with a strong passion for building modern, responsive, and user-friendly web applications.
+
+I started my degree in **2022** and I am currently in the final stage of my program, expecting to complete it in **2026**.
+
+As of **24/04/2026**, I have started my **8th semester**, focusing on advanced software engineering, project development, and industry-ready skills.
+
+I am also actively involved in **IT Club activities** and have participated in **hackathons and technical events**, which have helped me improve my teamwork, problem-solving, and real-world development experience.
 
 I specialize in frontend development and web development, with hands-on experience in technologies such as React and modern UI frameworks.
 
@@ -31,8 +35,6 @@ I specialize in **frontend development and web development**, with hands-on expe
 I am currently seeking a **Junior Web Developer / Frontend Developer opportunity** where I can contribute my skills, gain real-world experience, and continue growing as a software engineer in a professional environment.
 
 ---
-<table>
-  <tr>
     
 ### 📄 Internship – Techwox Solutions
 
@@ -42,25 +44,13 @@ This is an **unpaid internship**.
 📎 View Agreement Document:  
 [Click here to view my internship agreement](https://github.com/Senura-Peiris/Senura-Peiris/blob/main/senura.pdf)
 
----
-
 I successfully completed my internship on **07/10/2025**.
 
 📎 View Service Letter:  
 [Click here to view my internship Service Letter](https://github.com/Senura-Peiris/Senura-Peiris/blob/main/Techwox%20Solutions%20Service%20Letter.pdf)
 
-    </td>
-
-    <!-- RIGHT SIDE LOGO -->
-    <td width="30%" align="center" valign="top">
 
 <img src="https://github.com/Senura-Peiris/Senura-Peiris/blob/main/techwoxsolutionslogo.png" width="300" />
-
-    </td>
-
-  </tr>
-</table>
-
 
 
 
