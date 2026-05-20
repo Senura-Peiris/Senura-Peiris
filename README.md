@@ -44,8 +44,10 @@ I successfully completed my internship on **07/10/2025**.
 📎 View Service Letter:  
 [Click here to view my internship Service Letter](https://github.com/Senura-Peiris/Senura-Peiris/blob/main/Techwox%20Solutions%20Service%20Letter.pdf)
 
+<p align="center">
+  <img src="https://github.com/Senura-Peiris/Senura-Peiris/blob/main/techwoxsolutionslogo.png" width="300" />
+</p>
 
-<img src="https://github.com/Senura-Peiris/Senura-Peiris/blob/main/techwoxsolutionslogo.png" width="300" />
 
 
 
